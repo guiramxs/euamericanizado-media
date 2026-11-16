@@ -1,0 +1,3 @@
+/*
+  Cache-Control: public, max-age=86400, s-maxage=31536000, stale-while-revalidate=2592000
+  Access-Control-Allow-Origin: *
